@@ -2,7 +2,7 @@
 
 This project involves creating a Fashion Recommendations System using Python, Streamlit, TensorFlow's ResNet50, NumPy, and PIL. The system leverages advanced deep learning models to analyze fashion images. Specifically, it uses ResNet50 for feature extraction to obtain high-dimensional feature representations of the images. By applying nearest neighbor search algorithms, the system can identify visually similar fashion items, providing users with relevant fashion recommendations based on the visual characteristics of the items.
 
-#Here is the user interface for my system
+# Here is the user interface for my system
 
 
 
@@ -17,8 +17,8 @@ This project involves creating a Fashion Recommendations System using Python, St
 
 
 
-#PROJECT OVERVIEW 
-OBJECTIVE: 
+# PROJECT OVERVIEW 
+> OBJECTIVE: 
 The primary objective of this project is to develop a fashion recommendation system that leverages 
 advanced algorithms and deep learning techniques to provide personalized recommendations for 
 clothing and accessories. 
