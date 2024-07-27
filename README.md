@@ -38,8 +38,14 @@ precomputed dataset.
 # User Interface: 
 
 ![image](https://github.com/nandinigithub22/Fashion_Recommendation_System/assets/172033432/84e595e3-6235-4398-b386-5c6b6e4f4059)
+
+
 ![image](https://github.com/nandinigithub22/Fashion_Recommendation_System/assets/172033432/5740a207-88eb-4b1c-9d00-682240ecf9a0)
+
+
 ![image](https://github.com/nandinigithub22/Fashion_Recommendation_System/assets/172033432/d186bf89-aa63-4208-98e6-a88b46201af0)
+
+
 ![image](https://github.com/nandinigithub22/Fashion_Recommendation_System/assets/172033432/51d7cdfc-9e8a-4d5a-a19e-1031ce451277)
 
 
